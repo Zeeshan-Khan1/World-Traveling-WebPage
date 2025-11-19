@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Travel Website - React Version
 
 This is a React version of the travel website, converted from the original HTML/CSS/JS version.
@@ -75,3 +76,8 @@ This is a React version of the travel website, converted from the original HTML/
 - Custom CSS
 
 
+=======
+# React Assignment
+
+This repository contains my React assignments and practice work for my BSCS coursework. It includes basic concepts, components, hooks, props, and small example tasks.
+>>>>>>> b4faef4afad16eb8be601a42ee9873001fdaea8f
