@@ -19,16 +19,6 @@ https://traveling-webpage.netlify.app/
    mkdir -p public/img
    cp *.jpg public/img/
    ```
-   
-   Or manually copy these image files to `public/img/`:
-   - header-image.jpg
-   - showcase-photo1.jpg
-   - showcase-photo2.jpg
-   - showcase-photo3.jpg
-   - company-img.jpg
-   - travel-image1.jpg
-   - travel-image2.jpg
-   - travel-image3.jpg
 
 3. **Start the Development Server**
    ```bash
